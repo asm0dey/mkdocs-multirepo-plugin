@@ -1,5 +1,3 @@
-If you like this plugin and want me to continue maintaining it in my free time, please buy me a [beer 🍺](https://www.buymeacoffee.com/jdoiro) or sponser this plugin!
-
 # mkdocs-multirepo-plugin
 
 [![](https://github.com/jdoiro3/mkdocs-multirepo-plugin/workflows/Tests/badge.svg)](https://github.com/jdoiro3/mkdocs-multirepo-plugin/actions)
